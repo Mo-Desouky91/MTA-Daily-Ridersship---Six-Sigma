@@ -1,0 +1,10 @@
+id,event_name,expected_date,location,expected_impact
+1,FIFA Club World Cup,6/1/2025,New York,Increase in tourist ridership by 30%
+2,Congestion Pricing Launch,11/1/2025,Manhattan,Reduced traffic; boost in public transit funding
+3,America250 Celebrations,7/1/2026,New York,Nationwide celebrations; increased tourism and unity
+4,FIFA World Cup,6/1/2026,MetLife Stadium (NY/NJ),Global tourism influx; large-scale transit impact
+5,AI Tech Summit,10/1/2026,San Francisco,Increased business travel via flights & trains
+6,Autonomous Vehicles Adoption,6/1/2026,California,Possible decline in bus ridership
+7,Gas Price Surge,12/1/2027,USA,Shift from private cars to public transport
+8,Remote Work Normalization,6/1/2027,Global,Decrease in weekday commuting
+9,Summer Olympics,7/1/2028,Los Angeles,"National travel impact, increase train ridership"
